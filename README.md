@@ -8,52 +8,58 @@ This repository contains my **projects and hands-on labs** from the **TensorFlow
 
 The repository is organized by courses from the specialization:
 
-1. **Intro to TensorFlow for AI, ML, and DL**  
-   - Basics of TensorFlow and model building  
-   - Data pipelines, datasets, and preprocessing  
-   - Training simple neural networks
+1. **Intro to TensorFlow for AI, ML, and DL**
 
-2. **Convolutional Neural Networks in TensorFlow**  
-   - Image classification with CNNs  
-   - Data augmentation and regularization techniques  
-   - Transfer learning with pre-trained models
+   * Basics of TensorFlow and model building
+   * Data pipelines, datasets, and preprocessing
+   * Training simple neural networks
 
-3. **Natural Language Processing in TensorFlow**  
-   - Text preprocessing and tokenization  
-   - Word embeddings and sequence models  
-   - Sentiment analysis and text classification
+2. **Convolutional Neural Networks in TensorFlow**
 
-4. **Time Series Forecasting in TensorFlow**  
-   - Building RNNs and LSTMs for time series data  
-   - Multi-step forecasting and evaluation  
-   - Handling real-world datasets
+   * Image classification with CNNs
+   * Data augmentation and regularization techniques
+   * Transfer learning with pre-trained models
+
+3. **Natural Language Processing in TensorFlow**
+
+   * Text preprocessing and tokenization
+   * Word embeddings and sequence models
+   * Sentiment analysis and text classification
+
+4. **Time Series Forecasting in TensorFlow**
+
+   * Building RNNs and LSTMs for time series data
+   * Multi-step forecasting and evaluation
+   * Handling real-world datasets
 
 ---
 
 ## ⚡ Features
 
-- End-to-end implementations for each course project  
-- Clean and organized folder structure per course  
-- Ready-to-run notebooks for hands-on practice  
-- Demonstrates TensorFlow best practices and workflows
+* End-to-end implementations for each course project
+* Clean and organized folder structure per course
+* Ready-to-run notebooks for hands-on practice
+* Demonstrates TensorFlow best practices and workflows
 
 ---
 
-## 🗂 Folder Structure
+## 📚 Folder Structure
 
-tensorflow-developer-specialization/
+```
+tensorflow_developer_specialization/
 ├── README.md
 ├── Intro to TensorFlow/
 ├── ConvNet in TensorFlow/
 ├── NLP in TensorFlow/
 └── Time Series in TensorFlow/
+```
 
 ---
 
 ## 🔗 Resources
 
-- [TensorFlow Developer Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice)  
-- [TensorFlow Official Documentation](https://www.tensorflow.org/)
+* [TensorFlow Developer Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+* [TensorFlow Official Documentation](https://www.tensorflow.org/)
 
 ---
 
