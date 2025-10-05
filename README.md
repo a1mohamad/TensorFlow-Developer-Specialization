@@ -40,36 +40,23 @@ The repository is organized by courses from the specialization:
 ---
 
 ## 🗂 Folder Structure
-```
+
+tensorflow-developer-specialization/
 ├── README.md
 ├── Intro to TensorFlow/
 ├── ConvNet in TensorFlow/
 ├── NLP in TensorFlow/
 └── Time Series in TensorFlow/
-```
 
 ---
 
 ## 🔗 Resources
 
-- [TensorFlow Developer Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)  
+- [TensorFlow Developer Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice)  
 - [TensorFlow Official Documentation](https://www.tensorflow.org/)
 
 ---
 
 This repository is a **personal portfolio** of projects to showcase my TensorFlow skills, ready for reference or further experimentation.
-ensorflow.org/)
 
-
-
----
-
-
-
-This repository is a **personal portfolio** of projects to showcase my TensorFlow skills, ready for reference or further experimentation.
-
-
-
-=======
-# TensorFlow-Developer-Specialization
-This repository contains my projects and hands-on labs from the TensorFlow Developer Specialization by Laurence Moroney. It covers practical implementations in computer vision, NLP, time series forecasting, and TensorFlow fundamentals, showcasing end-to-end deep learning solutions.
+Let's Learning !!
