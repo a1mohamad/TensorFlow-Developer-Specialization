@@ -40,13 +40,13 @@ The repository is organized by courses from the specialization:
 ---
 
 ## 🗂 Folder Structure
-
+```
 ├── README.md
 ├── Intro to TensorFlow/
 ├── ConvNet in TensorFlow/
 ├── NLP in TensorFlow/
 └── Time Series in TensorFlow/
-
+```
 
 ---
 
