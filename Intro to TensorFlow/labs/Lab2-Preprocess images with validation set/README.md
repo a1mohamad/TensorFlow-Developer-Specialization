@@ -1,4 +1,4 @@
-#Image Data Preprocessing with a Validation Set
+# Image Data Preprocessing with a Validation Set
 
 ## **Overview**
 
@@ -6,9 +6,18 @@ This Jupyter Notebook, *C1\_W4\_Lab\_2\_image\_data\_preprocessing\_with\_valida
 
 ---
 
+## **Dataset Context**
+
+The exercises in this notebook are designed to use the **Horse-vs-Human dataset**.
+
+* **Note on Data Access:** Due to file size limitations, the full dataset is **not provided in the notebook's upload**.
+* **Data Loading:** The lab is structured to load this data using a framework like $\texttt{tfds}$ (TensorFlow Datasets) or by downloading it directly into the execution environment. The resulting **Training** and **Validation** sets are built from this source.
+
+---
+
 ## **Key Activities**
 
-* **Data Partitioning:** Demonstrates how to split a loaded image dataset into two distinct groups: a **training set** and a **validation set**.
+* **Data Partitioning:** Demonstrates how to split the loaded dataset into two distinct groups: a **training set** and a **validation set**.
 * **Model Generalization:** The primary objective is to use the validation set to **evaluate generalization**, enabling the user to monitor for **overfitting** during the training process.
 * **Image Preparation:** Includes standard data preprocessing steps necessary for optimizing model training, such as **normalization** (scaling pixel values).
 * **Feature Visualization:** Contains logic to visualize the outputs (activations) of various layers within the trained model, offering insight into how the network processes the image features.
@@ -19,7 +28,7 @@ This Jupyter Notebook, *C1\_W4\_Lab\_2\_image\_data\_preprocessing\_with\_valida
 
 The notebook follows a logical flow designed for interactive analysis:
 
-1.  **Setup & Load:** Imports necessary tools and loads the target image dataset.
+1.  **Setup & Load:** Imports necessary tools and loads the image dataset (Horse-vs-Human).
 2.  **Split Data:** Creates the separate Training and Validation data streams.
 3.  **Train & Monitor:** Compiles and trains the neural network, explicitly using the validation set to track metrics (like loss and accuracy) per epoch.
 4.  **Analyze:** Code for visualizing the model's intermediate feature maps.
