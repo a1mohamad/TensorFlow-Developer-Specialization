@@ -49,9 +49,3 @@ To successfully transition from a binary to a multi-class classifier, the notebo
 1.  **Output Layer Activation:** The final layer uses a **`softmax`** activation function (instead of `sigmoid`) to output a probability distribution across all possible classes.
 2.  **Loss Function:** The model is compiled with **`sparse_categorical_crossentropy`** (instead of `binary_crossentropy`), which is used when your labels are integers (0, 1, 2, etc.).
 
----is compiled with \*\*`sparse\_categorical\_crossentropy`\*\* (instead of `binary\_crossentropy`), which is used when your labels are integers (0, 1, 2, etc.).
-
-
-
----
-
